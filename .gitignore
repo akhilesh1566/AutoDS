@@ -48,6 +48,9 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
+
+# Environment variables
+.env
 .pytest_cache/
 cover/
 
@@ -172,6 +175,9 @@ cython_debug/
 # Ignore directories containing user credentials, local state, and settings.
 # Learn more at https://abstra.io/docs
 .abstra/
+
+# AutoDS temporary execution directory
+temp_execution/
 
 # Visual Studio Code
 #  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 

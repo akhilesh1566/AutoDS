@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "autods"
+version = "0.1.0"
+description = "An autonomous data science assistant"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.11"
+pandas = "^2.0.0"
+numpy = "^1.24.0"
+scikit-learn = "^1.2.0"
+imbalanced-learn = "^0.10.0"
+matplotlib = "^3.7.0"
+seaborn = "^0.12.0"
+openai = "^1.0.0"
+python-dotenv = "^1.0.0"
+rich = "^13.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

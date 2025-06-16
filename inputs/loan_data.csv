@@ -1,0 +1,5 @@
+loan_amnt,term,int_rate,grade,emp_title,home_ownership,annual_inc,loan_status,purpose,address
+5000, 36 months,15.61,D,medical assistant,MORTGAGE,46000.0,Fully Paid,debt_consolidation,"USCGC Sanford FPO AP 29597"
+13000, 60 months,21.99,E,laborer,RENT,46000.0,Charged Off,debt_consolidation,"46270 Rogers Stravenue Apt. 068"
+22000, 60 months,11.14,B,Garland ISD,MORTGAGE,75000.0,Fully Paid,debt_consolidation,"157 Gonzalez Crossing"
+18000, 36 months,11.53,B,Financial Analyst,RENT,69100.0,Charged Off,debt_consolidation,"4002 Young Centers Apt. 818"
